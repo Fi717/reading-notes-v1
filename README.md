@@ -9,7 +9,8 @@
 3. Growth Mindset
 
 #### Profile
-Hi, my name is James and I am a prospective web developer!  
+Hi, my name is James and I am a prospective web developer! 
+
 Along with the web development course, I am currently studying towards an MPhil in European, Latin American and Comparative Literatures and Cultures at the University of Cambridge.
 
 My interests include:
