@@ -7,3 +7,6 @@
 - Brief Intro 
 - About
 - Growth Mindset
+
+### Introduction
+Hi, my name is James and I am a prospective web developer! 
