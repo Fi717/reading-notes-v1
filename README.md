@@ -1,5 +1,3 @@
 # Reading Notes Demo
-## Reading Notes Demo
-### Reading Notes Demo
-#### Reading Notes Demo
-##### Reading Notes Demo
+
+### Norwich Code 1024d
