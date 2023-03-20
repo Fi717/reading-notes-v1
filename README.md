@@ -17,14 +17,10 @@ Along with web development, my main passions include...
 - Movies
 - Nature
 
-Outside of work, I spend most of most of my time... 
+Outside of university, I spend my time in the gym or on Toad Patrol! 
 
 #### About  
-This markdown file has been made to demonstrate... 
+This file has been made to demonstrate how to use Markdown on GitHub. 
 
 #### Growrth Mindset  
 > A growth mindet is all about overcoming the habit of describing oneself in terms of failure. Rather, one should be receptive to challenges that foster the growth of intellegence and talent. 
-
-! [This is the octocat](https://myoctocat.com/assets/images/base-octocat.svg)
-
-You can view my GitHub repos [HERE] () 
