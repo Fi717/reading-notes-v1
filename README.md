@@ -26,7 +26,7 @@ Email: 0121@gmail.co.uk
 #### About  
 This file has been made to demonstrate how to use Markdown on GitHub. 
 
-#### Growrth Mindset  
+#### Growth Mindset  
 > A growth mindet is all about changing the habit of describing oneself in terms of failure. Rather, one should be receptive to challenges that foster the growth of intellegence and talent.  
 
 Reminders of how to keep yourself in a growth mindset:
