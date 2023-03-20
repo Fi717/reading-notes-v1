@@ -13,6 +13,7 @@ Hi, my name is James and I am a prospective web developer!
 Along with web development, my main passions include... 
 
 - Football
+- Fitness
 - Reading
 - Movies
 - Nature
