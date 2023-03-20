@@ -10,15 +10,18 @@
 
 #### Profile
 Hi, my name is James and I am a prospective web developer!  
-Along with the web development course, I am currently studying towards an MPhil in European, Latin American and Comparative Literatures and Cultures at the University of Cambridge.  
+Along with the web development course, I am currently studying towards an MPhil in European, Latin American and Comparative Literatures and Cultures at the University of Cambridge.
+
 My interests include:
 
 - Football (Homerton College Fourths)
 - Fitness
 - Reading
-- Nature (I am an amphibian surveyor in my spare time!)  
+- Nature (I am an amphibian surveyor in my spare time!) 
 
-Email: jamessearle41@hotmail.co.uk
+! [Toad] (http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQRTwqldR-YH71p4Ezw4nM0x0mHm8AqezBBkuAqyZv9o_uT48cjvCVHtw9GgjvFg2nSmHKj8_UD-aCHpew)
+
+Email: 0121@gmail.co.uk
 
 #### About  
 This file has been made to demonstrate how to use Markdown on GitHub. 
@@ -31,4 +34,4 @@ Reminders of how to keep yourself in a growth mindset:
 2. Accept that mistakes are part of the learning process 
 3. Celebrate growth
 
-You can find my GitHub page [HERE] (https://github.com/jamessearle71/reading-notes-v1/)
+You can find my GitHub repos [HERE] (https://github.com/jamessearle71/reading-notes-v1/)
