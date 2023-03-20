@@ -25,4 +25,6 @@ This markdown file has been made to demonstrate...
 #### Growrth Mindset  
 > A growth mindet is all about overcoming the habit of describing oneself in terms of failure. Rather, one should be receptive to challenges that foster the growth of intellegence and talent. 
 
-![This is the octocat] (https://myoctocat.com/assets/images/base-octocat.svg)
+! [This is the octocat](https://myoctocat.com/assets/images/base-octocat.svg)
+
+You can view my GitHub repos [HERE] () 
