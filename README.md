@@ -4,10 +4,10 @@
 
 **Document content**
 
-- Brief Intro 
-- About
-- Growth Mindset
+1. Brief Intro 
+2. About
+3. Growth Mindset
 
 ### Introduction
-Hi, my name is James and I am a prospective web developer! 
+Hi, my name is James and I am a prospective web developer!  
 Along with web development, my main passions include... 
