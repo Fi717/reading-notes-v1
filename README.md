@@ -19,7 +19,7 @@ My interests include:
 - Reading
 - Nature (I am an amphibian surveyor in my spare time!) 
 
-! [Toad] (http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQRTwqldR-YH71p4Ezw4nM0x0mHm8AqezBBkuAqyZv9o_uT48cjvCVHtw9GgjvFg2nSmHKj8_UD-aCHpew)
+![Toad](http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQRTwqldR-YH71p4Ezw4nM0x0mHm8AqezBBkuAqyZv9o_uT48cjvCVHtw9GgjvFg2nSmHKj8_UD-aCHpew)
 
 Email: 0121@gmail.co.uk
 
@@ -34,4 +34,4 @@ Reminders of how to keep yourself in a growth mindset:
 2. Accept that mistakes are part of the learning process 
 3. Celebrate growth
 
-You can find my GitHub repos [HERE] (https://github.com/jamessearle71/reading-notes-v1/)
+You can find my GitHub here [HERE](https://github.com/jamessearle71)
