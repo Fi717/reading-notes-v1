@@ -35,4 +35,4 @@ Reminders of how to keep yourself in a growth mindset:
 2. Accept that mistakes are part of the learning process 
 3. Celebrate growth
 
-You can find my GitHub here [HERE](https://github.com/jamessearle71)
+You can find my GitHub [HERE](https://github.com/jamessearle71)
